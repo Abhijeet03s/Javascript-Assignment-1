@@ -11,4 +11,4 @@ function solveLinEquation(a, b, c) {
   console.log(`${y}`);
 }
 
-solveLinEquation(5, 3, -30);
+solveLinEquation(10, 20, -30);
